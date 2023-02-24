@@ -13,6 +13,6 @@ No installation needed.
 
 ## Usage
 
-Please click this [link]() to view deployed page.
+Please click this [link](https://astarem.github.io/css-snippet-cheatsheet/) to view deployed page.
 
 
